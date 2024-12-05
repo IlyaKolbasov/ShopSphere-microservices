@@ -10,8 +10,10 @@
   <name>ShopSphere-microservices</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>auth-service</module>
+      <module>auth-service</module>
       <module>discovery-server</module>
+      <module>api-gateway</module>
+      <module>product-service</module>
   </modules>
 
   <properties>
